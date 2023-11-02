@@ -51,8 +51,8 @@ Another outcome is the creation of a strong foundation for the project to contin
 
 After completing the project and reflecting on the methodologies, our team has composed a list of recommendations to assist Casa Museo Park redevelopment in the future. These sets of recommendations will improve and streamline the following processes.
 
-Creating a Memory Box
-Planning a Participatory Design Event
-Recommendations for Running a Participatory Design Event
-Community Engagement
-Creating a CAD Model of a Potential Park Design
+- Creating a Memory Box
+- Planning a Participatory Design Event
+- Recommendations for Running a Participatory Design Event
+- Community Engagement
+- Creating a CAD Model of a Potential Park Design
