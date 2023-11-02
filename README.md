@@ -24,17 +24,18 @@ The fourth objective was fulfilled by creating a cost estimation tool in Microso
 
 The community that surrounds the Casa Museo Ismael Rivera provided powerful insight in participatory design sessions for pocket parks. We found:
 
-The Memory Box stimulated an emotional connection to this project.
-The Participatory Mapping activity was a gateway between the past and the future of the Casa Museo Pocket Park.
-The Image Ranking Activity invited participants to refine designs and imagine themselves in the future park.
-Design workshop engagement formed a bond between participants and facilitators through conversation.
-“One-on-One” Engagement strengthened relationships and vocalized deeper design ideas.
-Ivelisse Rivera, Ismael’s sister and founder of the Fundación Ismael Rivera, provided important historic context for this project.
-Mari, owner of Divino Niño Day Care, expressed the need for children’s features in the park.
-3D Modeling potential park designs allowed us to fulfill the ideas of the community in a quick and visual way.
-Materials on the Casa Museo property continues Taller Creando Sin Encargos idea of reusing materials.
-Creating a Cost Estimate Tool simplifies the cost of a project and how to divide resources.
-Outcomes & Deliverables
+- The Memory Box stimulated an emotional connection to this project.
+- The Participatory Mapping activity was a gateway between the past and the future of the Casa Museo Pocket Park.
+- The Image Ranking Activity invited participants to refine designs and imagine themselves in the future park.
+- Design workshop engagement formed a bond between participants and facilitators through conversation.
+- “One-on-One” Engagement strengthened relationships and vocalized deeper design ideas.
+- Ivelisse Rivera, Ismael’s sister and founder of the Fundación Ismael Rivera, provided important historic context for this project.
+- Mari, owner of Divino Niño Day Care, expressed the need for children’s features in the park.
+- 3D Modeling potential park designs allowed us to fulfill the ideas of the community in a quick and visual way.
+- Materials on the Casa Museo property continues Taller Creando Sin Encargos idea of reusing materials.
+- Creating a Cost Estimate Tool simplifies the cost of a project and how to divide resources.
+
+# Outcomes & Deliverables
 
 This project was successful in involving stakeholders and engaging the community in the design process. The three design activities and the input they gathered were used to create the two key deliverables of the project, The Casa Museo Ismael Rivera Pocket Park Design Portfolio, and the Participatory Design Toolkit.
 
